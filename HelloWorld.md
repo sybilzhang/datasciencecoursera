@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "zq"
 date: "1/27/2021"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
